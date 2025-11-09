@@ -1,5 +1,5 @@
-fastapi==0.104.1
-uvicorn[standard]==0.24.0
-pydantic==2.5.0
-pillow==10.1.0
-qrcode==7.4.2
+fastapi>=0.104.1
+uvicorn[standard]>=0.24.0
+pydantic>=2.5.0
+pillow>=10.0.0
+qrcode>=7.4.2
